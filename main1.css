@@ -10,3 +10,7 @@ text-center{
 div {
     overflow: scroll;
 }
+.logo-container {
+    display: flex;
+    align-items: center;
+}
